@@ -1,4 +1,1 @@
-- 👋 moin @yxssin808
-- 👀 interessiert in py und websiten (html, css, js, react)
-- 🌱 gerade probiere ich mich an html & css
-- 📫 schreibt mir gerne eine email
+
